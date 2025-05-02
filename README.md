@@ -7,11 +7,11 @@ A Python-based tool for automatically checking and displaying grades from the Ra
 ## Preview
 - Get only grade method
 <div align="center" style="padding:16px">
-<img src="./1.png" width="auto" alt="rmuti logo" />
+<img src="./1.png" width="auto" alt="preview 1" />
 </div>
 - Get all method
 <div align="center" style="padding:16px">
-<img src="./2.png" width="auto" alt="rmuti logo" />
+<img src="./2.png" width="auto" alt="preview 2" />
 </div>
 
 ## Features
